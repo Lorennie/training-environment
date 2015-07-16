@@ -1,3 +1,4 @@
+@2
 Feature: Create User and login to test site
 
 Scenario: Create new user and login to site
