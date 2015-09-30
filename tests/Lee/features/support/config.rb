@@ -2,7 +2,6 @@ require 'open-uri'
 require 'net/http'
 require 'rspec/expectations'
 require 'json'
-require 'test/unit'
 
 require 'capybara/cucumber'
 
